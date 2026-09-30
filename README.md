@@ -43,4 +43,4 @@ Running the exact same load directly on bare-metal hardware yielded a 10x improv
 **Conclusion:** This benchmark mathematically validates that while bare-metal hardware vastly outperforms virtualized environments, deploying safe, high-speed motion control ultimately requires either a `PREEMPT_RT` patched kernel or strict user-space CPU core isolation. 
 
 ---
-*Project conducted by Vishal Chandar SURESH as part of ongoing research in industrial mechatronics and control systems.*
+*Project conducted by Vishal Chandar SURESH as part of ongoing his personal research in industrial mechatronics and control systems.*
