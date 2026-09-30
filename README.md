@@ -25,7 +25,7 @@ The benchmark evaluates the OS scheduler's ability to wake a sleeping thread exa
 
 ## Results & Data Comparison
 
-*(Insert `latency_comparison.png` here - generated via Python matplotlib to visualize the histogram distribution of latency spikes)*
+latency_comparison.png
 
 | Metric | Virtual Machine (Ubuntu) | Bare-Metal (AMD Ryzen 7) |
 | :--- | :--- | :--- |
