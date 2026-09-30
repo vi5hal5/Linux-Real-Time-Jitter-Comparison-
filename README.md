@@ -25,7 +25,8 @@ The benchmark evaluates the OS scheduler's ability to wake a sleeping thread exa
 
 ## Results & Data Comparison
 
-latency_comparison.png
+![Latency Comparison Histogram](latency_comparison.png)
+*(Logarithmic histogram showing the massive 60 ms outlier in the VM environment compared to bare-metal normal behavior).*
 
 | Metric | Virtual Machine (Ubuntu) | Bare-Metal (AMD Ryzen 7) |
 | :--- | :--- | :--- |
